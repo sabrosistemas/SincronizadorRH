@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SabroRH.SQLHelper", "SabroRH.SQLHelper\SabroRH.SQLHelper.csproj", "{9DFB36CE-67A7-43DB-8EFA-BC03063922EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SabroRH.Monitor", "SabroRH.Monitor\SabroRH.Monitor.csproj", "{C5BB59C9-94EB-47B7-B42B-9A393C329066}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SabroRH.Win.Componentes", "..\..\Temp\MicroSales.Win.Componentes\SabroRH.Win.Componentes.csproj", "{9B4CF290-E750-4514-BD13-776A73B0AB36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SabroRH.Schemas", "SabroRH.Schemas\SabroRH.Schemas.csproj", "{755A83E7-D0F9-419B-882A-1AFDDE1015F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SabroRH.Sincronizador", "SabroRH.Sincronizador\SabroRH.Sincronizador.csproj", "{2BB79768-093D-402E-9772-EC3A7901A6F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DFB36CE-67A7-43DB-8EFA-BC03063922EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DFB36CE-67A7-43DB-8EFA-BC03063922EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DFB36CE-67A7-43DB-8EFA-BC03063922EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DFB36CE-67A7-43DB-8EFA-BC03063922EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5BB59C9-94EB-47B7-B42B-9A393C329066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5BB59C9-94EB-47B7-B42B-9A393C329066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5BB59C9-94EB-47B7-B42B-9A393C329066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5BB59C9-94EB-47B7-B42B-9A393C329066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B4CF290-E750-4514-BD13-776A73B0AB36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B4CF290-E750-4514-BD13-776A73B0AB36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B4CF290-E750-4514-BD13-776A73B0AB36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B4CF290-E750-4514-BD13-776A73B0AB36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{755A83E7-D0F9-419B-882A-1AFDDE1015F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{755A83E7-D0F9-419B-882A-1AFDDE1015F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{755A83E7-D0F9-419B-882A-1AFDDE1015F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{755A83E7-D0F9-419B-882A-1AFDDE1015F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BB79768-093D-402E-9772-EC3A7901A6F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB79768-093D-402E-9772-EC3A7901A6F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB79768-093D-402E-9772-EC3A7901A6F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB79768-093D-402E-9772-EC3A7901A6F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02485E8E-E0F6-4DBE-AEAE-8C82463667B7}
+	EndGlobalSection
+EndGlobal
